@@ -1,0 +1,11 @@
+h1, h2, a {color:red; text-decoration: underline; text-decoration-thickness: 3px;}
+p, label {color:aqua}
+a:hover{color:rgb(127, 212, 0); font-weight: bolder; font-style: oblique;}
+
+body{
+    font-family: Xanh Mono;
+    font-size:x-large;
+    text-align: center;
+    background: linear-gradient(to bottom, darkblue, blue);
+    min-height: 100vh;
+}
